@@ -24,7 +24,7 @@ namespace WindowsFormsHelloWorld
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hei there too!");
+            MessageBox.Show("Hei there too ##3!");
         }
     }
 }
