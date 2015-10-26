@@ -21,5 +21,10 @@ namespace WindowsFormsHelloWorld
         {
             MessageBox.Show("Hei der!");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hei there too!");
+        }
     }
 }
